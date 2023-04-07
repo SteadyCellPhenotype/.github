@@ -7,4 +7,4 @@ https://steadycellphenotype.github.io/
 
 For source code see:
 
-https://github.com/knappa/steadycellphenotype
+https://github.com/SteadyCellPhenotype/steadycellphenotype
